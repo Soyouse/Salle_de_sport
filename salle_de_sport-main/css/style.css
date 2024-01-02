@@ -313,9 +313,6 @@ opacity: .7;
 /* media query perso pour mode horizontal (1) */ 
 
 @media (max-width: 932px) and (max-height: 430px) {
-    .fs {
-        text-align: center;
-    }
     .bg-button-custom{
         height: 80px;
     }
@@ -324,9 +321,6 @@ opacity: .7;
 
 /* media query perso pour mode horizontal (2) */
 @media (max-width: 1100px) and (max-height: 1400px) {
-    .fs {
-        text-align: center;
-    }
     .bg-button-custom{
         height: 100px;
     }
